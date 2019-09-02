@@ -1,0 +1,21 @@
+{
+  "name": "spectrum-app",
+  "version": "1.0.0",
+  "description": "My fantabulous Nuxt.js project",
+  "author": "Snir Shechter",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/sitemap": "^1.2.0",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^7.2.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,16 @@
+@import "../../style/config/index";
+
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  transition: color 0.3s ease;
+  &:hover {
+    color: $color-green;
+  }
+}
